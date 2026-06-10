@@ -1,16 +1,44 @@
-## Hi there 👋
+# Deniz Yoldas
 
-<!--
-**dyoldas/dyoldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics, Mathematics, and Computer Science @ Boston University.
 
-Here are some ideas to get you started:
+Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Theoretical Physics
+* Artificial Intelligence
+* Theoretical Machine Learning and CS
+* Quantum Computing & Information
+
+
+---
+
+## Projects
+
+* nano_gpt — educational character-level GPT implementation from scratch
+* Jet tagging using deep learning on real ATLAS LHC data
+* ALPHA Collaboration (CERN) — temperature diagnostics of multi-species plasmas
+
+---
+
+## Research Interests
+
+* Representability of physical theories
+* Contemporary AI and ML
+
+---
+
+## Languages
+
+* Python
+* Java
+* C++
+* Wolfram Language
+
+
+---
+
+## Contact
+
+* Boston University
+* GitHub: @dyoldas
+
