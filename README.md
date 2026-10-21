@@ -1,6 +1,6 @@
 # Deniz Yoldas
 
-Physics, Mathematics, and Computer Science @ Boston University.
+Physics, Mathematics, and Computer Science at Boston University.
 
 ## Projects
 
